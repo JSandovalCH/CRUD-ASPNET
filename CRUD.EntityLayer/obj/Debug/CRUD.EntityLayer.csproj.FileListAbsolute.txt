@@ -1,0 +1,6 @@
+D:\SENATI\C#\CRUD ASP.NET\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.dll
+D:\SENATI\C#\CRUD ASP.NET\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.pdb
+D:\SENATI\C#\CRUD ASP.NET\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.AssemblyReference.cache
+D:\SENATI\C#\CRUD ASP.NET\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.CoreCompileInputs.cache
+D:\SENATI\C#\CRUD ASP.NET\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.dll
+D:\SENATI\C#\CRUD ASP.NET\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.pdb

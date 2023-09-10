@@ -1,0 +1,9 @@
+D:\SENATI\C#\CRUD ASP.NET\CRUD.DataLayer\bin\Debug\CRUD.DataLayer.dll
+D:\SENATI\C#\CRUD ASP.NET\CRUD.DataLayer\bin\Debug\CRUD.DataLayer.pdb
+D:\SENATI\C#\CRUD ASP.NET\CRUD.DataLayer\bin\Debug\CRUD.EntityLayer.dll
+D:\SENATI\C#\CRUD ASP.NET\CRUD.DataLayer\bin\Debug\CRUD.EntityLayer.pdb
+D:\SENATI\C#\CRUD ASP.NET\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.csproj.AssemblyReference.cache
+D:\SENATI\C#\CRUD ASP.NET\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.csproj.CoreCompileInputs.cache
+D:\SENATI\C#\CRUD ASP.NET\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.csproj.CopyComplete
+D:\SENATI\C#\CRUD ASP.NET\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.dll
+D:\SENATI\C#\CRUD ASP.NET\CRUD.DataLayer\obj\Debug\CRUD.DataLayer.pdb

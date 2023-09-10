@@ -222,12 +222,14 @@
     </Compile>
     <Compile Include="Site.Mobile.Master.cs">
       <DependentUpon>Site.Mobile.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Site.Mobile.Master.designer.cs">
       <DependentUpon>Site.Mobile.Master</DependentUpon>
     </Compile>
     <Compile Include="ViewSwitcher.ascx.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
@@ -246,6 +248,16 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CRUD.BusinessLayer\CRUD.BusinessLayer.csproj">
+      <Project>{af467866-2a60-4fa1-8983-253a2d1688ea}</Project>
+      <Name>CRUD.BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CRUD.EntityLayer\CRUD.EntityLayer.csproj">
+      <Project>{1acac98c-41fd-47c2-9550-0c3e1e67bad6}</Project>
+      <Name>CRUD.EntityLayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
