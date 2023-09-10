@@ -1,0 +1,11 @@
+D:\SENATI\C#\CRUD ASP.NET\CRUD.BusinessLayer\bin\Debug\CRUD.BusinessLayer.dll
+D:\SENATI\C#\CRUD ASP.NET\CRUD.BusinessLayer\bin\Debug\CRUD.BusinessLayer.pdb
+D:\SENATI\C#\CRUD ASP.NET\CRUD.BusinessLayer\bin\Debug\CRUD.DataLayer.dll
+D:\SENATI\C#\CRUD ASP.NET\CRUD.BusinessLayer\bin\Debug\CRUD.EntityLayer.dll
+D:\SENATI\C#\CRUD ASP.NET\CRUD.BusinessLayer\bin\Debug\CRUD.DataLayer.pdb
+D:\SENATI\C#\CRUD ASP.NET\CRUD.BusinessLayer\bin\Debug\CRUD.EntityLayer.pdb
+D:\SENATI\C#\CRUD ASP.NET\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.AssemblyReference.cache
+D:\SENATI\C#\CRUD ASP.NET\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\SENATI\C#\CRUD ASP.NET\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.CopyComplete
+D:\SENATI\C#\CRUD ASP.NET\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.dll
+D:\SENATI\C#\CRUD ASP.NET\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.pdb
